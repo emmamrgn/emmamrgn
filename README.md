@@ -13,13 +13,13 @@ Je suis emma et je suis étudiante en licence d'informatique à l'Université Ly
 
 ## 🚀 Projets
 ### Universitaire : 
-- (Jeu de la Vie)[https://github.com/emmamrgn/JeuDeLaVie] : Projet de L3 : Application Intéractive du Jeu de la Vie
-- (lif-fighter)[https://github.com/emmamrgn/lif-fighter] : Projet de L2 : Jeu style Street Fighter avec les personnages de Persona4 (il manque des fonctionnalités)
-- (MiniPong)[https://github.com/emmamrgn/MiniPong] : Projet de L1 : Jeu de Ping Pong en 2D très basique
+- [Jeu de la Vie](https://github.com/emmamrgn/JeuDeLaVie) : Projet de L3 : Application Intéractive du Jeu de la Vie
+- [lif-fighter](https://github.com/emmamrgn/lif-fighter) : Projet de L2 : Jeu style Street Fighter avec les personnages de Persona4 (il manque des fonctionnalités)
+- [MiniPong](https://github.com/emmamrgn/MiniPong) : Projet de L1 : Jeu de Ping Pong en 2D très basique
 
 
 ### Personnel
-- (Discord Bot)[https://github.com/emmamrgn/m4_discord_bot] : Bot Discord qui permet d'attribuer un rôle si un autre rôle est déjà attribué *(ex : si role_a ou role_b est attribué : attribuer role_c, si role_a et role_b attribuer role_d)*
+- [Discord Bot](https://github.com/emmamrgn/m4_discord_bot) : Bot Discord qui permet d'attribuer un rôle si un autre rôle est déjà attribué *(ex : si role_a ou role_b est attribué : attribuer role_c, si role_a et role_b attribuer role_d)*
 
 
 ## 📈 Statistiques GitHub
