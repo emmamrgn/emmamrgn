@@ -2,7 +2,7 @@
 
 
 ## À propos de moi
-Je suis emma et je suis étudiante en licence d'informatique à l'Université Lyon 1.
+Je suis étudiante en licence d'informatique à l'Université Lyon 1.
 
 
 ## 🔧 Technologies & Outils
@@ -15,6 +15,7 @@ Je suis emma et je suis étudiante en licence d'informatique à l'Université Ly
 ### Universitaire : 
 - [Jeu de la Vie](https://github.com/emmamrgn/JeuDeLaVie) : Projet de L3 : Application Intéractive du Jeu de la Vie
 - [lif-fighter](https://github.com/emmamrgn/lif-fighter) : Projet de L2 : Jeu style Street Fighter avec les personnages de Persona4 (il manque des fonctionnalités)
+- [projet.gouv](https://github.com/emmamrgn/service.gouv) : Projet de L2 : Gestionnaire de service communaux avec une BD données
 - [MiniPong](https://github.com/emmamrgn/MiniPong) : Projet de L1 : Jeu de Ping Pong en 2D très basique
 
 
@@ -27,18 +28,4 @@ Je suis emma et je suis étudiante en licence d'informatique à l'Université Ly
 
 
 ---
-⭐️ From [votre_username](https://github.com/emmamrgn)
-<!--
-**emmamrgn/emmamrgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [emma](https://github.com/emmamrgn)
