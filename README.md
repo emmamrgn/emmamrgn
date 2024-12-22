@@ -5,12 +5,12 @@
 Je suis étudiante en licence d'informatique à l'Université Lyon 1.
 
 
-## 🔧 Technologies & Outils
-- **Langages de programmation:** C/C++, Java, Python, PHP
-- **Base de données:** PostgreSQL
-- **Outils:** Git, VSCode
+## 🔧 Mes Skills
+![langages](https://skillicons.dev/icons?i=c,cpp,html,css,php,py,java&theme=dark&perline=4)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![outils](https://skillicons.dev/icons?i=idea,vscode&theme=dark&perline=4)
+
+
 
 
 ## 🚀 Projets
