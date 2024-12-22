@@ -5,7 +5,7 @@
 ## 🎈 À propos de moi
 Je suis étudiante en licence d'informatique à l'Université Lyon 1.
 
-## 🔧 Mes Skills
+## 🔧 Skills
 
 - **Langages** :
 <p align="center">
@@ -14,7 +14,7 @@ Je suis étudiante en licence d'informatique à l'Université Lyon 1.
 
 - **Outils** :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,bots,git&theme=dark&perline=4" />
   </a>
 </p>
 
