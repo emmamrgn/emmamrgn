@@ -10,6 +10,8 @@ Je suis étudiante en licence d'informatique à l'Université Lyon 1.
 - **Base de données:** PostgreSQL
 - **Outils:** Git, VSCode
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 ## 🚀 Projets
 ### Universitaire : 
