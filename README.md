@@ -20,7 +20,7 @@ Je suis étudiante en licence d'informatique à l'Université Lyon 1.
 
 
 ### Personnel
-- [Discord Bot](https://github.com/emmamrgn/m4_discord_bot) : Bot Discord qui permet d'attribuer un rôle si un autre rôle est déjà attribué *(ex : si role_a ou role_b est attribué : attribuer role_c, si role_a et role_b attribuer role_d)*
+- [Discord Bot](https://github.com/emmamrgn/valorant-discord-bot) : Bot Discord qui permet d'attribuer un rôle si un autre rôle est déjà attribué *(ex : si role_a ou role_b est attribué : attribuer role_c, si role_a et role_b attribuer role_d)*
 
 <!--
 
