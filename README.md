@@ -3,8 +3,7 @@
 
 
 ## 🎈 À propos de moi
-Je suis étudiante en licence d'informatique à l'Université Lyon 1
-I'm a computer science student at Lyon 1 University
+Je suis étudiante en licence d'informatique à l'Université Lyon 1.
 
 ## 🔧 Mes Skills
 
@@ -40,4 +39,4 @@ I'm a computer science student at Lyon 1 University
 
 -->
 ---
-⭐️ From [emma/jiaxi](https://github.com/emmamrgn)
+⭐️ **From [emma/jiaxi](https://github.com/emmamrgn)**
