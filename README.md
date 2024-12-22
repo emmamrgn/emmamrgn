@@ -20,7 +20,7 @@ Je suis étudiante en licence d'informatique à l'Université Lyon 1.
 
 
 ### Personnel
-- [valorant-discord-bot](https://github.com/emmamrgn/valorant-discord-bot) : Un bot discord qui renvoie le rank valorant du joueur
+- [vlr-discord-app](https://github.com/emmamrgn/valorant-discord-bot) : Un bot discord qui renvoie le rank valorant du joueur
 - [role-manager-app](https://github.com/emmamrgn/manager-role-app) : Bot Discord qui permet d'attribuer un rôle si un autre rôle est déjà attribué *(ex : si role_a ou role_b est attribué : attribuer role_c, si role_a et role_b attribuer role_d)*
 
 <!--
