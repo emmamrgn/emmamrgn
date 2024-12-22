@@ -3,7 +3,7 @@
 
 
 ## 🎈 À propos de moi
-Je suis étudiante en licence d'informatique à l'Université Lyon 1.
+- Je suis étudiante en licence d'informatique à l'Université Lyon 1. Je suis passionée par l'informatique et la programmation. 
 
 ## 🔧 Skills
 
