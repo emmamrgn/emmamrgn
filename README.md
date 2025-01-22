@@ -9,7 +9,7 @@
 
 - **Langages** :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,php,py,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,php,py,java,js&theme=dark" />
 </p>
 
 - **Outils** :
