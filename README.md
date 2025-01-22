@@ -1,8 +1,7 @@
 ## 👋 Bienvenue sur mon profil GitHub
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Raleway&color=FFFFFF&repeat=true&random=true&lines=Hey+you%2C+i'm+emma+(jiaxi))](https://git.io/typing-svg)
-
 
 ## 🎈 À propos de moi
+- Je m'appelle Emma, j'ai 22 ans
 - Je suis étudiante en licence d'informatique à l'Université Lyon 1. Je suis passionée par l'informatique et la programmation. 
 
 ## 🔧 Skills
