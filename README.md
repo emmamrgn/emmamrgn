@@ -14,7 +14,7 @@
 
 - **Outils** :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,bash,git&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,bash,git&theme=dark&perline=4" />
   </a>
 </p>
 
