@@ -8,12 +8,12 @@
 ## 🔧 Skills
 
 - **Langages** :
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,php,js&theme=dark" />
 </p>
 
 - **Outils** :
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,bash,git&theme=dark&perline=4" />
   </a>
 </p>
