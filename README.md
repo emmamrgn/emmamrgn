@@ -32,9 +32,9 @@
 ### 🌄 Personnel :
 - [Kayoo-Bot](https://github.com/emmamrgn/manager-role-app) : Un bot discord qui permet de gérer automatiquement les rôles des membres de mon serveur et qui renvoie le rank valorant de l'utilisateur.
 
-
+<!--
 ## 📈 Statistiques GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=emmamrgn&show_icons=true&theme=radical)
-
+-->
 ---
 ⭐️ **From [emma/jiaxi](https://github.com/emmamrgn)**
