@@ -30,14 +30,11 @@
 
 
 ### 🌄 Personnel :
-- [vlr-discord-bot](https://github.com/emmamrgn/valorant-discord-bot)   : Un bot discord qui renvoie le rank valorant du joueur
-- [role-manager-app](https://github.com/emmamrgn/manager-role-app)      : un application discord qui permet gérer les rôles des membres de mon serveur.
+- [Kayoo-Bot](https://github.com/emmamrgn/manager-role-app) : Un bot discord qui permet de gérer automatiquement les rôles des membres de mon serveur et qui renvoie le rank valorant de l'utilisateur.
 
-<!--
 
 ## 📈 Statistiques GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=emmamrgn&show_icons=true&theme=radical)
 
--->
 ---
 ⭐️ **From [emma/jiaxi](https://github.com/emmamrgn)**
