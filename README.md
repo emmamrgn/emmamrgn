@@ -37,4 +37,4 @@
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=emmamrgn&show_icons=true&theme=radical)
 -->
 ---
-⭐️ **From [emma/jiaxi](https://github.com/emmamrgn)**
+⭐️ **[emma](https://github.com/emmamrgn)**
