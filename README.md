@@ -22,7 +22,7 @@
 
 ## 🚀 Projets
 ### 🎓 Universitaire : 
-- [rpgLLM](https://github.com/emmamrgn/rpg-projet) : Projet de L3 : RPG dans le terminal avec un LLM
+- [rpgLLM](https://github.com/emmamrgn/rpg-LLM) : Projet de L3 : RPG dans le terminal avec un LLM
 - [Jeu de la Vie](https://github.com/emmamrgn/JeuDeLaVie) : Projet de L3 : Application Intéractive du Jeu de la Vie
 - [lif-fighter](https://github.com/emmamrgn/lif-fighter) : Projet de L2 : Jeu style Street Fighter avec les personnages de Persona4 (il manque des fonctionnalités)
 - [projet.gouv](https://github.com/emmamrgn/service.gouv) : Projet de L2 : Gestionnaire de service communaux avec une BD données
