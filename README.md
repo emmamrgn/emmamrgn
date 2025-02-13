@@ -31,7 +31,7 @@
 
 ### 🌄 Personnel :
 - [Pocket-Kayoo](https://github.com/emmamrgn/PocketKayou) : Un bot discord qui permet de gérer automatiquement les rôles des membres de mon serveur et qui renvoie le rank valorant de l'utilisateur.
-- [Mon Portfolio](https://github.com/emmamrgn/emmamrgn.github.io) : Mon [portfolio](https://emmamorgenstern.netlify.app/) hebergé sur Netlify. 
+- [emmamrgn.github.io](https://github.com/emmamrgn/emmamrgn.github.io) : Mon [portfolio](https://emmamorgenstern.netlify.app/) hebergé sur Netlify. 
 
 <!--
 ## 📈 Statistiques GitHub
