@@ -3,7 +3,7 @@
 
 ## 🎈 À propos de moi
 - Je m'appelle Emma, j'ai 22 ans
-- Je suis étudiante en licence d'informatique à l'Université Lyon 1. Je suis passionée par l'informatique et la programmation. 
+- Etudiante en licence d'informatique à l'Université Lyon 1
 
 ## 🔧 Skills
 
