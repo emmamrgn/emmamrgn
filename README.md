@@ -2,7 +2,7 @@
 ### Emma Morgenstern
 
 ## 🎈 À propos de moi
-- Je m'appelle Emma, j'ai 22 ans
+- Je m'appelle Emma, j'ai 23 ans
 - Etudiante en licence d'informatique à l'Université Lyon 1
 
 ## 🔧 Skills
