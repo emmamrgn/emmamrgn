@@ -25,7 +25,7 @@
 - [rpg-LLM](https://github.com/emmamrgn/rpg-LLM) : Projet de L3 : RPG dans le terminal avec un LLM
 - [JeuDeLaVie](https://github.com/emmamrgn/JeuDeLaVie) : Projet de L3 : Application Intéractive du Jeu de la Vie
 - [lif-FIGHTER](https://github.com/emmamrgn/lif-fighter) : Projet de L2 : Jeu style Street Fighter avec les personnages de Persona4 (il manque des fonctionnalités)
-- [projet.gouv](https://github.com/emmamrgn/service.gouv) : Projet de L2 : Gestionnaire de service communaux avec une BD données
+- [projet.gouv](https://github.com/emmamrgn/service.gouv) : Projet de L2 : Gestionnaire de service communaux avec une Base de Données donnée.
 - [MiniPong](https://github.com/emmamrgn/MiniPong) : Projet de L1 : Jeu de Ping Pong en 2D très basique
 
 
