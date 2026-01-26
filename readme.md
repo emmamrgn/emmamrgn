@@ -123,7 +123,7 @@ Mon site portfolio personnel hébergé sur Netlify.
 </td>
 </tr>
 </table>
-
+<!--
 ## 📈 Statistiques GitHub
 
 <div align="center">
@@ -132,6 +132,8 @@ Mon site portfolio personnel hébergé sur Netlify.
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=emmamrgn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmamrgn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+-->
 
 </div>
 --- 
