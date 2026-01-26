@@ -11,7 +11,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,php,js&theme=dark" />
 </p>
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=java&color=orange)
+[![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=java&color=orange)]
 
 
 - **Outils** :
