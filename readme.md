@@ -134,33 +134,7 @@ Mon site portfolio personnel hébergé sur Netlify.
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmamrgn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-![Trophées](https://github-profile-trophy.vercel.app/?username=emmamrgn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-## 📊 Activité de Contribution
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/emmamrgn/emmamrgn/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-## 🎮 Fun Facts
-
-- 🎯 Fan de Persona 4 (d'où le projet lif-FIGHTER !)
-- 🎲 Passionnée par les jeux de stratégie et RPG
-- 🤖 Toujours curieuse d'explorer de nouvelles technologies
-- 💡 J'adore automatiser les tâches répétitives
-- ⚽ Grande fan de football
-
----
-
+--- 
 <div align="center">
 
 ### 💬 "Code, Learn, Repeat" 🔁
