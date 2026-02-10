@@ -16,12 +16,11 @@
 ## 🎯 À propos de moi
 
 ```yaml
-nom: Emma Morgenstern
-age: 23
-localisation: Lyon, France
-formation: Licence d'Informatique - Université Lyon 1
-passion: [Développement de jeux, IA, Web Development, Data, Football]
-statut: still learning 🚀
+nom : Emma Morgenstern
+age : 23
+formation : Licence d'Informatique - Université Lyon 1
+profession : Chargée de déploiement/développement du Projet MyReport - Temps Jeunes
+hobbies : [Développement de jeux, Robotique, IA, Web Development, Data, Football]
 ```
 
 ## 🛠️ Stack Technique
