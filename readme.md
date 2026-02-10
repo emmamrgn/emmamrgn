@@ -39,22 +39,22 @@ statut: still learning 🚀
 
 </div>
 
-## 🚀 Mes Projets
+## Mes Projets
 
-### 🎓 Projets Universitaires
+### 🎓 Projets Universitaires :
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎮 [SmallWorld](https://github.com/emmamrgn/SmallWorld)
+#### [SmallWorld](https://github.com/emmamrgn/SmallWorld)
 Jeu de stratégie tour par tour en Java, inspiré du jeu de plateau SmallWorld.
 - `Java` `POO` `Design Patterns`
 
 </td>
 <td width="50%">
 
-#### 🤖 [rpg-LLM](https://github.com/emmamrgn/rpg-LLM)
+#### [rpg-LLM](https://github.com/emmamrgn/rpg-LLM)
 RPG interactif dans le terminal utilisant un modèle de langage (LLM).
 - `Python` `IA` `CLI`
 
@@ -63,7 +63,7 @@ RPG interactif dans le terminal utilisant un modèle de langage (LLM).
 <tr>
 <td width="50%">
 
-#### 🧬 [JeuDeLaVie](https://github.com/emmamrgn/JeuDeLaVie)
+#### [JeuDeLaVie](https://github.com/emmamrgn/JeuDeLaVie)
 Application interactive du Jeu de la Vie de Conway avec interface graphique.
 - `Java` `Simulation` `GUI`
 
@@ -72,23 +72,23 @@ Application interactive du Jeu de la Vie de Conway avec interface graphique.
 
 
 
-#### 👊 [lif-FIGHTER](https://github.com/emmamrgn/lif-fighter)
+#### [lif-FIGHTER](https://github.com/emmamrgn/lif-fighter)
 Jeu de combat style Street Fighter avec les personnages de Persona 4.
-- `Java` `Game Development`
+- `C/C++` `Game Development`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🏛️ [projet.gouv](https://github.com/emmamrgn/service.gouv)
+#### [projet.gouv](https://github.com/emmamrgn/service.gouv)
 Gestionnaire de services communaux avec base de données.
 - `PHP` `SQL` `Web`
 
 </td>
 <td width="50%">
 
-#### 🏓 [MiniPong](https://github.com/emmamrgn/MiniPong)
+#### [MiniPong](https://github.com/emmamrgn/MiniPong)
 Jeu de Ping Pong 2D basique - mon premier projet !
 - `Python` `Pygame`
 
@@ -96,13 +96,13 @@ Jeu de Ping Pong 2D basique - mon premier projet !
 </tr>
 </table>
 
-### 🌟 Projets Personnels
+### Projets Personnels :
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🤖 [PocketKayou](https://github.com/emmamrgn/PocketKayou)
+#### [PocketKayou](https://github.com/emmamrgn/PocketKayou)
 Bot Discord multifonction :
 - Gestion automatique des rôles
 - Récupération du rank Valorant
@@ -113,7 +113,7 @@ Bot Discord multifonction :
 </td>
 <td width="50%">
 
-#### 🌐 [Portfolio](https://github.com/emmamrgn/emmamrgn.github.io)
+#### [Portfolio](https://github.com/emmamrgn/emmamrgn.github.io)
 Mon site portfolio personnel hébergé sur Netlify.
 
 🔗 [Voir en ligne](https://emmamorgenstern.netlify.app/)
@@ -139,7 +139,7 @@ Mon site portfolio personnel hébergé sur Netlify.
 --- 
 <div align="center">
 
-### 💬 "Code, Learn, Repeat" 🔁
+<!-- ### 💬 "Code, Learn, Repeat" 🔁 -->
 
 ⭐️ N'hésitez pas à explorer mes projets et à me contacter !
 
