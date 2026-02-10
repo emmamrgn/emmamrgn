@@ -1,9 +1,10 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Emma
+# Salut, moi c'est Emma
+## Étudiante en Informatique
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Étudiante+en+Informatique+%F0%9F%8E%93;!+still+learning+%F0%9F%9A%80" alt="Typing SVG" />
-
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Étudiante+en+Informatique+%F0%9F%8E%93;!+still+learning+%F0%9F%9A%80" alt="Typing SVG" />
+-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=brave&logoColor=black)](https://emmamorgenstern.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmamrgn)
 
